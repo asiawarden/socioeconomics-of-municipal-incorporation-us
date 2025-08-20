@@ -3,6 +3,7 @@
 
 **Author:** Asia Warden  
 **Date:** August 2025  
+** File** [Download Paper (PDF)](AsiaWarden_MBA705_Municipal_Incorporation_US.pdf)
 
 ---
 
