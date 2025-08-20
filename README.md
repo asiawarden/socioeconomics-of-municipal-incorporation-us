@@ -19,6 +19,3 @@ This paper analyzes how economic incentives, racial segregation, and educational
 
 ---
 
-
-- License: CC BY 4.0 (optional, but recommended)  
-- Contact: [your email or LinkedIn]  
