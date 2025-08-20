@@ -3,7 +3,7 @@
 
 **Author:** Asia Warden  
 **Date:** August 2025  
-**File:** [`paper/AsiaWarden_MBA705_Municipal_Incorporation_2025.docx`](paper/AsiaWarden_MBA705_Municipal_Incorporation_2025.docx)
+**File:** [`paper/AsiaWarden_MBA705_Municipal_Incorporation_2025.docx`](AsiaWarden_MBA705_Municipal_Incorporation_US)
 
 ---
 
